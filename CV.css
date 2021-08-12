@@ -1,0 +1,20 @@
+﻿h1 {
+    color:dodgerblue
+}
+h1{
+    font-style:initial
+}
+p{
+    font-style:italic
+}
+h2 {
+    color: cornflowerblue
+}
+
+h4{
+    color:darkred
+}
+body{
+    background-image:url("thi.jpg");
+    background-origin:border-box
+}
