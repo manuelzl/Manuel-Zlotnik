@@ -1,11 +1,12 @@
 ﻿h1 {
-    color:dodgerblue
+    color:darkblue
 }
 h1{
     font-style:initial
 }
-p{
-    font-style:italic
+p {
+    font-style: italic;
+    font-size: 40px;
 }
 h2 {
     color: cornflowerblue
@@ -15,6 +16,8 @@ h4{
     color:darkred
 }
 body{
-    background-image:url("thi.jpg");
-    background-origin:border-box
+    background-image:url("bg.jpg");
+    background-origin:border-box;
+    font-size:30px;
+
 }
