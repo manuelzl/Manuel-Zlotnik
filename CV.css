@@ -6,7 +6,10 @@ h1{
 }
 p {
     font-style: italic;
-    font-size: 40px;
+    font-size: 30px;
+    color: ActiveBorder;
+    background-color: rgba(0,0,0,0.5);
+    width=10%
 }
 h2 {
     color: cornflowerblue
@@ -15,9 +18,10 @@ h2 {
 h4{
     color:darkred
 }
-body{
-    background-image:url("bg.jpg");
-    background-origin:border-box;
-    font-size:30px;
 
+body {
+    background-image: url("bg.jpg");
+    background-size: 100%;
+    background-origin: border-box;
+    font-size: 30px;
 }
