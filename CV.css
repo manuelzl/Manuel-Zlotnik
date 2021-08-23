@@ -25,3 +25,19 @@ body {
     background-origin: border-box;
     font-size: 30px;
 }
+img   {
+        border-radius:10%;
+        margin:20px;
+        animation-name: sec;
+        animation-duration: 5s;
+}
+
+@keyframes sec {
+    from {
+        border-radius: 10%
+    }
+
+    to {
+        border-radius: 5%
+    }
+}
